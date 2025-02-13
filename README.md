@@ -1,6 +1,7 @@
 # WhatsappChatBot
 
 ## How to run
+- setup your ```.env```
 - open your terminal
 - run this ```npm run dev```
 - add the phone number to create instance at waapi
