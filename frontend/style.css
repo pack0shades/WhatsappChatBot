@@ -1,0 +1,47 @@
+body {
+    background-color: #f0f8ff; /* Light background color */
+}
+
+.card {
+    max-width: 400px;
+    width: 100%;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    color: #007bff;
+}
+
+.text-muted {
+    color: #6c757d;
+}
+
+.text-success {
+    text-align: center;
+}
+
+#registerForm {
+    margin-top: 20px;
+}
+
+input {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background-color: #007bff;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
